@@ -59,6 +59,6 @@ createCamp.getSaveButton().click();
 
 CampaignInformation campInfor=new CampaignInformation(driver);
 campInfor.validationOfPage(driver,value);
-	
+
 }
 }
